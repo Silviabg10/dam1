@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Esto es</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="like.css">
+</head>
+<body>
+
+<table class="default">
+
+   <tr>
+
+        <th scope="row">Día</th>
+
+        <th>Hoy</th>
+
+        <th>Mañana</th>
+
+        <th>Sábado</th>
+
+    </tr>
+
+    <tr>
+
+        <th>Condición</th>
+
+        <td>Soleado</td>
+
+        <td>Mayormente soleado</td>
+
+        <td>Parcialmente nublado</td>
+
+    </tr>
+
+    <tr>
+
+        <th>Temperatura</th>
+
+        <td>19°C</td>
+
+        <td>17°C</td>
+
+        <td>12°C</td>
+
+    </tr>
+
+    <tr>
+
+        <th>Vientos</th>
+
+        <td>E 13 km/h</td>
+
+        <td>E 11 km/h</td>
+
+        <td>S 16 km/h</td>
+
+    </tr>
+
+</table>
+
+</body>
+</html>
